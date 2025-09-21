@@ -1,4 +1,4 @@
-# STARDEW VALLEY GUIDE EM HASKELL
+# 🐔 STARDEW VALLEY GUIDE EM HASKELL 🐔
 
 **Identificação**
 
@@ -9,7 +9,16 @@
 
 ## Tema / Objetivo
 
-descrição do tema/objetivo do trabalho, conforme a proposta validada
+ O tema do trabalho é um site que aborda informações sobre o jogo Stardew Valley, com cinco funcionalidades principais:
+ 1) Exibe uma lista com todas conquistas do jogo e a porcentagem das que já estão completas, sendo possível adionar as novas conquistas desbloqueadas. É utilizado SQL para o bando de dados.
+
+ 2) Semelhante a primeira funcionalidade, mas nesse caso, mostra o progresso nas receitas culinárias do jogo.
+    
+ 3) Consulta as receitas culinárias pelo nome e os ingredientes necessários são exibidos. Também será possível ver uma lista com todas receitas e ingredientes.
+  
+ 4) Consulta o nome de um item e o ID dele é exibido. Será possível ver uma lista com todos itens e IDs em JSON
+ 
+ 5) Essa última apenas exibe curiosidades aleatórias sobre o jogo
 
 ---
 
