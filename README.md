@@ -14,11 +14,17 @@
 
  2) Semelhante a primeira funcionalidade, mas nesse caso, mostra o progresso nas receitas culinárias do jogo.
     
- 3) Consulta as receitas culinárias pelo nome e os ingredientes necessários são exibidos. Também será possível ver uma lista com todas receitas e ingredientes.
+ 3) O usuario pode realizar consultas. Ao consultar as receitas culinárias pelo nome e os ingredientes necessários são exibidos, e ao consultar o nome de um item e o ID dele é exibido.
   
- 4) Consulta o nome de um item e o ID dele é exibido. Será possível ver uma lista com todos itens e IDs em JSON
+ 4)  Exibirá uma lista com todos itens e IDs em JSON, também será possível ver uma lista com todas receitas e ingredientes. Depende do que o usuario optar.
  
- 5) Essa última apenas exibe curiosidades aleatórias sobre o jogo
+ 5) Essa última apenas exibe curiosidades aleatórias sobre o jogo.
+
+Ao abrir o site será exibido um Menu em que o usiário pode escolher o que vai buscar, com quatro opções:
+1. Progresso: exibe o progresso do usuario nas Conquistas ou Receitas (funcionalidades 1 e 2)
+2. Pesquisa: consulta ingredientes de receitas ou IDs de itens, individualmente (funcionalidade 3)
+3. Listas: exibe a lista com todas receitas+ingredientes ou itens+ID. (funcionalidade 4)
+4. Curiosidades: exibe curiosidades aleatórias toda vez que o site é atualizado (funcionalidade 5)
 
 ---
 
